@@ -1,0 +1,9 @@
+name: Hadron
+main: org.cyberpwn.hadron.Hadron
+version: ${project.version}
+author: cyberpwn
+depend: [Phantom]
+authors: [cyberpwn]
+commands: 
+  hadron: 
+    aliases: [h]
